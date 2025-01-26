@@ -1,6 +1,7 @@
 ## OneLint
 
-> One linter, all languages.
+> NOTE: OneLint has moved to [DeepSourceCorp/globstar](https://github.com/DeepSourceCorp/globstar).
+> This was a week-ish long project I did at work. This repo will no longer be maintained.
 
 A lightweight, extensible linter for all programming languages powered by tree-sitter.
 
